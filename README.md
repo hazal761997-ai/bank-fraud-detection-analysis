@@ -1,2 +1,2 @@
-# bank-fraud-detection-analysis
-End-to-end fraud detection analysis using Google Sheets, SQL, Python and Tableau.
+# 🏦 Bank Fraud Detection & Risk Analytics
+End-to-end fraud detection project developed using Google Sheets, SQL, Python and Tableau.
