@@ -53,7 +53,7 @@ data/
 sql/
 python/
 tableau/
-images/
+googlesheet/
 report/
 ```
 
