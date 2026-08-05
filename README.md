@@ -3,7 +3,18 @@
 An end-to-end fraud detection project developed using **Google Sheets, SQL, Python, and Tableau**.
 
 ---
+## 📑 Table of Contents
 
+- [Project Overview](#-project-overview)
+- [Business Problem](#-business-problem)
+- [Dataset](#-dataset)
+- [Tools & Technologies](#-tools--technologies)
+- [SQL Analysis](#-sql-analysis)
+- [Tableau Dashboard](#-tableau-dashboard)
+- [Machine Learning](#-machine-learning)
+- [Results](#-results)
+- [Project Structure](#-project-structure)
+- 
 ## 📌 Project Overview
 
 Banks process thousands of transactions every day. Detecting fraudulent transactions quickly is critical to reduce financial losses.
@@ -45,7 +56,66 @@ The Risk Management team wants to answer the following questions:
 - Tableau
 
 ---
+## 🗄 SQL Analysis
 
+Business questions answered using SQL:
+
+- Fraud rate by customer segment
+- Fraud rate by transaction amount
+- Merchant category analysis
+- High-risk transactions
+- Repeat fraud customers
+
+Technologies used:
+
+- JOIN
+- GROUP BY
+- CASE WHEN
+- Aggregate Functions
+- ORDER BY
+- 
+  ## 📈 Tableau Dashboard
+
+The interactive dashboard includes:
+
+- Fraud Rate by Segment
+- Fraud Amount by Category
+- Monthly Fraud Trend
+- Customer Risk Heatmap
+- Amount vs Income Scatter Plot
+
+Dashboard screenshots will be added after completion.
+
+## 🤖 Machine Learning
+
+Fraud detection models compared:
+
+- IQR
+- Z-Score
+- Isolation Forest
+- Logistic Regression
+- Random Forest
+- XGBoost
+
+Model performance will be compared using:
+
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+- 
+  ## 📊 Results
+
+Final results will be added after completing the analysis.
+
+The report will include:
+
+- Key business insights
+- Fraud patterns
+- Dashboard screenshots
+- Model comparison
+- Business recommendations
+- 
 ## 📂 Project Structure
 
 ```text
