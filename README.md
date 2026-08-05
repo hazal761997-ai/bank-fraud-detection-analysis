@@ -56,6 +56,20 @@ The Risk Management team wants to answer the following questions:
 - Tableau
 
 ---
+## 📊 Google Sheets - Exploratory Data Analysis (EDA)
+
+Before building SQL queries and machine learning models, exploratory data analysis (EDA) was performed using Google Sheets.
+
+Tasks completed:
+
+- Merged transaction, customer, and fraud label tables using XLOOKUP
+- Created risk buckets based on transaction amount
+- Identified night transactions
+- Built Pivot Tables to analyze fraud patterns
+- Calculated fraud rates by customer segment and merchant category
+
+Key insights from the EDA guided the SQL analysis and machine learning stages.
+
 ## 🗄 SQL Analysis
 
 Business questions answered using SQL:
