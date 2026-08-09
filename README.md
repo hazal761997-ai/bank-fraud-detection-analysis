@@ -88,11 +88,13 @@ Key tasks included:
 
 Business questions answered using SQL:
 
-- Fraud rate by customer segment
-- Fraud rate by transaction amount
-- Merchant category analysis
-- High-risk transactions
-- Repeat fraud customers
+| File | Analysis |
+|---|---|
+| [01_segment_fraud.sql](sql/01_segment_fraud.sql) | Fraud rate by customer segment |
+| [02_amount_bucket.sql](sql/02_amount_bucket.sql) | Fraud rate by transaction amount |
+| [03_category_analysis.sql](sql/03_category_analysis.sql) | Merchant category analysis |
+| [04_high_risk_transactions.sql](sql/04_high_risk_transactions.sql) | High-risk transaction detection |
+| [05_repeat_fraud_customers.sql](sql/05_repeat_fraud_customers.sql) | Repeat fraud customers |
 
 Technologies used:
 
@@ -114,7 +116,7 @@ The interactive dashboard includes:
 - Customer Risk Heatmap
 - Amount vs Income Scatter Plot
 
-Dashboard screenshots will be added after completion.
+![Tableau Dashboard](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/tableau/dashboard.png)
 
 ---
 
