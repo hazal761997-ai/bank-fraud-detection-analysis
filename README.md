@@ -45,6 +45,15 @@ The Risk Management team wants to answer the following questions:
 | Fraud Transactions | 497   |
 | Fraud Rate         | 6.21% |
 
+### Data Files
+
+| File | Description |
+|---|---|
+| [transactions.csv](data/transactions.csv) | Raw transaction records |
+| [customers.csv](data/customers.csv) | Customer profile / segment data |
+| [fraud_labels.csv](data/fraud_labels.csv) | Fraud/non-fraud labels per transaction |
+| [ANALYSIS.csv](data/ANALYSIS.csv) | *(add a short description here)* |
+
 ---
 
 ## 🛠 Tools & Technologies
