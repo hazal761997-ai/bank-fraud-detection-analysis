@@ -3,6 +3,7 @@
 An end-to-end fraud detection project developed using **Google Sheets, SQL, Python, and Tableau**.
 
 ---
+
 ## 📑 Table of Contents
 
 - [Project Overview](#-project-overview)
@@ -14,7 +15,7 @@ An end-to-end fraud detection project developed using **Google Sheets, SQL, Pyth
 - [Machine Learning](#-machine-learning)
 - [Results](#-results)
 - [Project Structure](#-project-structure)
-- 
+
 ## 📌 Project Overview
 
 Banks process thousands of transactions every day. Detecting fraudulent transactions quickly is critical to reduce financial losses.
@@ -37,12 +38,12 @@ The Risk Management team wants to answer the following questions:
 
 ## 📊 Dataset
 
-| Metric | Value |
-|--------|-------|
-| Transactions | 8,000 |
-| Customers | 500 |
-| Fraud Transactions | 497 |
-| Fraud Rate | 6.21% |
+| Metric             | Value |
+| ------------------ | ----- |
+| Transactions       | 8,000 |
+| Customers          | 500   |
+| Fraud Transactions | 497   |
+| Fraud Rate         | 6.21% |
 
 ---
 
@@ -56,6 +57,7 @@ The Risk Management team wants to answer the following questions:
 - Tableau
 
 ---
+
 ### Google Sheets Analysis
 
 The initial exploratory analysis was performed in Google Sheets.
@@ -71,11 +73,13 @@ Key tasks included:
 
 #### Exploratory Analysis
 
-![Google Sheets EDA](images/google_sheets_eda.png)
+[![Google Sheets EDA](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/images/google_sheets_eda.png)](/hazal761997-ai/bank-fraud-detection-analysis/blob/main/images/google_sheets_eda.png)
 
 #### Fraud Analysis
 
-![Google Sheets Pivot Analysis](images/google_sheets_pivot.png)
+[![Google Sheets Pivot Analysis](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/images/google_sheets_pivot.png)](/hazal761997-ai/bank-fraud-detection-analysis/blob/main/images/google_sheets_pivot.png)
+
+---
 
 ## 🗄 SQL Analysis
 
@@ -94,8 +98,10 @@ Technologies used:
 - CASE WHEN
 - Aggregate Functions
 - ORDER BY
-- 
-  ## 📈 Tableau Dashboard
+
+---
+
+## 📈 Tableau Dashboard
 
 The interactive dashboard includes:
 
@@ -107,13 +113,18 @@ The interactive dashboard includes:
 
 Dashboard screenshots will be added after completion.
 
+---
+
 ## 🤖 Machine Learning
 
 Fraud detection models compared:
 
+**Unsupervised / statistical (no labels required):**
 - IQR
 - Z-Score
 - Isolation Forest
+
+**Supervised (require labeled fraud/non-fraud data):**
 - Logistic Regression
 - Random Forest
 - XGBoost
@@ -124,8 +135,10 @@ Model performance will be compared using:
 - Recall
 - F1-score
 - Confusion Matrix
-- 
-  ## 📊 Results
+
+---
+
+## 📊 Results
 
 Final results will be added after completing the analysis.
 
@@ -136,10 +149,12 @@ The report will include:
 - Dashboard screenshots
 - Model comparison
 - Business recommendations
-- 
+
+---
+
 ## 📂 Project Structure
 
-```text
+```
 data/
 sql/
 python/
