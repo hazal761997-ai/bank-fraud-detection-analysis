@@ -73,11 +73,14 @@ Key tasks included:
 
 #### Exploratory Analysis
 
-[![Google Sheets EDA](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/images/google_sheets_eda.png)](/hazal761997-ai/bank-fraud-detection-analysis/blob/main/images/google_sheets_eda.png)
+![Google Sheets EDA](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/googlesheet/google_sheets_eda.png)
 
-#### Fraud Analysis
+#### Fraud Analysis (Pivot Table)
 
-[![Google Sheets Pivot Analysis](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/images/google_sheets_pivot.png)](/hazal761997-ai/bank-fraud-detection-analysis/blob/main/images/google_sheets_pivot.png)
+| | |
+|---|---|
+| ![Pivot 1](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/googlesheet/google_sheets_pivot_1.png) | ![Pivot 2](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/googlesheet/google_sheets_pivot_2.png) |
+| ![Pivot 3](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/googlesheet/google_sheets_pivot_3.png) | ![Pivot 4](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/raw/main/googlesheet/google_sheets_pivot_4.png) |
 
 ---
 
