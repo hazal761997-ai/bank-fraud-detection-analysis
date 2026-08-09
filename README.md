@@ -52,7 +52,7 @@ The Risk Management team wants to answer the following questions:
 | [transactions.csv](data/transactions.csv) | Raw transaction records |
 | [customers.csv](data/customers.csv) | Customer profile / segment data |
 | [fraud_labels.csv](data/fraud_labels.csv) | Fraud/non-fraud labels per transaction |
-| [ANALYSIS.csv](data/ANALYSIS.csv) | *(add a short description here)* |
+| [ANALYSIS.csv](data/ANALYSIS.csv) | Working sheet used to perform the fraud analysis |
 
 ---
 
