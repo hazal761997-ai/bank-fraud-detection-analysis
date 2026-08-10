@@ -115,6 +115,18 @@ Technologies used:
 - ORDER BY
 
 ---
+## 🐍 Python Analysis
+
+[#-python-analysis](#-python-analysis)
+
+Python was used for data preprocessing, feature engineering, and building the machine learning models described below.
+
+| File | Description |
+| ---- | ------------ |
+| [fraud_detection.ipynb](https://github.com/hazal761997-ai/bank-fraud-detection-analysis/blob/main/python/fraud_detection.ipynb) | Data preprocessing, model training, evaluation, and SHAP explainability |
+
+Libraries used: Pandas, NumPy, Scikit-learn, XGBoost, SHAP
+
 
 ## 📈 Tableau Dashboard
 
