@@ -11,6 +11,7 @@ An end-to-end fraud detection project developed using **Google Sheets, SQL, Pyth
 - [Dataset](#-dataset)
 - [Tools & Technologies](#-tools--technologies)
 - [SQL Analysis](#-sql-analysis)
+- [Python Analysis](#-python-analysis)
 - [Tableau Dashboard](#-tableau-dashboard)
 - [Machine Learning](#-machine-learning)
 - [Results](#-results)
