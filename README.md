@@ -164,18 +164,22 @@ Model performance will be compared using:
 - Confusion Matrix
 
 ---
-
 ## 📊 Results
 
-Final results will be added after completing the analysis.
+Final analysis and dashboard findings:
 
-The report will include:
+- **Highest fraud rate by segment:** Basic customers show the highest fraud rate (10.15%), followed by Student (9.09%). Standard (4.60%) and Premium (2.91%) segments are comparatively safer. The overall average fraud rate across the dataset is 6.21%.
+- **Fraud amount by category:** Travel, Electronics, and ATM Withdrawal account for the largest total fraud amounts, while Groceries and Dining contribute the least.
+- **High-risk customer profile:** The risk heatmap identifies two standout risk pockets — young customers with very low income (fraud rate up to 33.33%) and mid-career customers (~40 years old) with high income (~100K) show a fraud rate of 20%.
+- **Fraud trend over time:** Monthly fraud rate fluctuates throughout the year, with a notable spike in August.
+- **Amount vs. income ratio:** Fraudulent transactions cluster among customers with a lower income ratio, spanning a wide range of transaction amounts — suggesting income relative to spending is a stronger fraud signal than raw amount alone.
 
-- Key business insights
-- Fraud patterns
-- Dashboard screenshots
-- Model comparison
-- Business recommendations
+Business recommendations:
+
+- Prioritize additional verification steps for Basic and Student segment transactions.
+- Apply tighter monitoring to Travel, Electronics, and ATM Withdrawal transactions.
+- Flag transactions from low-income, young customers and high-income, mid-age customers for manual review.
+- Investigate the August spike for seasonal fraud patterns.
 
 ---
 
