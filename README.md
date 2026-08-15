@@ -194,13 +194,12 @@ report/
 
 ## 🚀 Project Status
 
-🚧 In Progress
+✅ Completed
 
-This project is currently being completed step by step.
+This project has been completed end-to-end, covering:
 
-Upcoming sections:
-
-- SQL Analysis
-- Tableau Dashboard
-- Machine Learning Models
-- Final Business Report
+- Exploratory data analysis (Google Sheets)
+- SQL-based fraud analysis (PostgreSQL)
+- Interactive Tableau dashboard
+- Machine learning model comparison
+- Final business report and recommendations
